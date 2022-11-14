@@ -1,0 +1,37 @@
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\appsettings.json
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Maria's Tour.exe
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Maria's Tour.deps.json
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Maria's Tour.runtimeconfig.json
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Maria's Tour.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Maria's Tour.pdb
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.csproj.AssemblyReference.cache
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.AssemblyInfoInputs.cache
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.AssemblyInfo.cs
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\scopedcss\bundle\Maria's Tour.styles.css
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.csproj.CopyComplete
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.dll
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\refint\Maria's Tour.dll
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.pdb
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\Maria's Tour.genruntimeconfig.cache
+C:\Users\Remakker\Maria's Tour\obj\Debug\net6.0\ref\Maria's Tour.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Remakker\Maria's Tour\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Nhefasto\Desktop\Ultima Entrega Individual\Prontos\RecodePro-6-entrega-main\Maria's Tour\obj\Debug\net6.0\Maria's Tour.pdb

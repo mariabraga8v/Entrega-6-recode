@@ -1,0 +1,38 @@
+
+
+
+Substituir o nome "Maria's Tour" no código e 
+no título das coisas para o nome do seu site
+Você pode fazer isso dando CRTL+F e usando a pesquisa para substituir as palavras
+(igual na foto)
+
+------------
+
+mudar os caminhos na função "projects" em "Maria's Tour.csproj.nuget..." e "project.assets.json"
+para ficar os próprios caminhos do seu computador onde esta sua pasta
+
+ex.: "C:\\Users\\Remakker\\Desktop\\Ultima Entrega Individual\\MARIA CLARA ENTREGAS\\quinta entrega\\Maria's Tour\\Maria's Tour.csproj",
+
+Você pode fazer isso dando CRTL+F e usando a pesquisa para substituir as palavras
+
+-------------------
+
+Substituir o nome "Maria's Tour" no código tasks.json
+Substituir o nome "Maria's Tour" no código e no nome dos arquivos em toda pasta obj/Debug\net6.0
+Substituir pelo código o nome "Remakker" pelo nome de usuário do seu computador
+
+
+------------------
+
+alterar "DefaultConnection": "server=localhost;port=3456;initial catalog=usuariobd;uid=root;password=011543692js"
+no código appsettings.json, coloca outros numeros em port e password
+
+----------
+
+atenção especial em "Maria's Tour.csproj.FileListAbsolute" substituir todos os Remakker por seu nome de usuário no computador
+
+atenção também se achar o nome "henri" em algum lugar restante do código, substitua por seu nome de usuário, eu posso ter deixado passar algum
+
+----------------
+
+
